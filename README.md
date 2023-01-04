@@ -1,0 +1,3 @@
+# SeekSpoof
+
+This program was written after <a href="https://oa-bsa.org/event/noac-2018">NOAC 2018</a> as a way to control the PixMob devices (called Seeks) that were distributed to attendees. The model used was DONUT V4.3, however it is possible that this code would work for their other products. This uses BlueZ in a rather unorthodox way, however the main reason I created this was to familiarize myself with Tkinter and programming in general.
